@@ -1,5 +1,5 @@
 <html>
-<title>Edureka Live</title>
+<title> Live</title>
 <head>
         <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
         <title>Database Entry Sample</title>
